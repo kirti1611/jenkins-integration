@@ -1,0 +1,9 @@
+Started by user [8mha:////4OHVlBB4njV4tESnPPWo+VR+oOA+lK6Ccki7caLQP6H8AAAAlx+LCAAAAAAAAP9b85aBtbiIQTGjNKU4P08vOT+vOD8nVc83PyU1x6OyILUoJzMv2y+/JJUBAhiZGBgqihhk0NSjKDWzXb3RdlLBUSYGJk8GtpzUvPSSDB8G5tKinBIGIZ+sxLJE/ZzEvHT94JKizLx0a6BxUmjGOUNodHsLgAzeEgZu/dLi1CL9xJTczDwACG0V4sAAAAA=[0mjenkins admin
+Running as SYSTEM
+Building in workspace /var/jenkins_home/workspace/first-job
+[first-job] $ /bin/sh -xe /tmp/jenkins14241260704351569970.sh
++ NAME=Kirti
++ lastname=maheshwari
++ /tmp/script.sh Kirti maheshwari
+hello Kirti maheshwari
+Finished: SUCCESS

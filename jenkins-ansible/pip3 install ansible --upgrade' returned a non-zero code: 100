@@ -1,0 +1,11 @@
+I had debian base for jenkins container. So I used following commands
+
+1. docker exec -ti -u root jenkins bash
+2. apt install ntp 
+3. service ntp restart
+
+That changed my container date and solved my problem.
+
+To change host date which is centos in my case: 
+1. sudo yum install jenkins
+2. sudo systemctl restart ntpd
